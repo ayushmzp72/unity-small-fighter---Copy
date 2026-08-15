@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: de2a7e66419fb574d8202282964aa74d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - MedievalSharp
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 328721
+  packageName: Bloodlines - Dark UI
+  packageVersion: 1.0.1
+  assetPath: Assets/Alebardium/Bloodlines UI/Fonts/MedievalSharp/MedievalSharp-Regular.ttf
+  uploadId: 936906
